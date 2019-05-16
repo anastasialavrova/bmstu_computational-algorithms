@@ -26,6 +26,12 @@
 
 Выход: коэффициенты a, график
 
+[**5. Физика (давление)**](https://github.com/anastasialavrova/bmstu_computational-algorithms/tree/master/lab_05)
+
+Вход: начальное давление (P0), начальное время (T0), конечная температура (Tw), масса (m)
+
+Выход: давление (P)
+
 [**6. Дифференцирование**](https://github.com/anastasialavrova/bmstu_computational-algorithms/tree/master/lab_06)
 
 Выход: таблица (Лев. разность, центр. разность, повыш. порядка, Рунге (лев.), Рунге (центр.), Вырав. коэф.)
