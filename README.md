@@ -3,7 +3,7 @@
 МГТУ им. Баумана, 4 семестр, 2019 год  
 Вариант №10
 
-Все вопросы преподавателя к каждой лабораторной работе можно посмотреть у [Winterpuma](https://github.com/Winterpuma)
+Все вопросы преподавателя к каждой лабораторной работе можно посмотреть у [Winterpuma](https://github.com/Winterpuma/bmstu_computational-algorithms)
 
 [**1. Интерполяция полиномом Ньютона**](https://github.com/anastasialavrova/bmstu_computational-algorithms/tree/master/lab_01)
 
